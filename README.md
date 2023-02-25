@@ -1,2 +1,1 @@
-# projects
-project descriptions
+#### PROJECTS
